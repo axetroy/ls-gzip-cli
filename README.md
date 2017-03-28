@@ -5,7 +5,7 @@
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![npm version](https://badge.fury.io/js/ls-gzip-cli.svg)](https://badge.fury.io/js/ls-gzip-cli)
 
-Git Package Manager, make you manage the repository easier
+Display the file size after gzip compression!
 
 ## Installation
 ```bash
