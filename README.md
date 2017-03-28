@@ -7,6 +7,8 @@
 
 Display the file size after gzip compression!
 
+![Screenshot](https://raw.githubusercontent.com/axetroy/ls-gzip-cli/master/screenshot.png)
+
 ## Installation
 ```bash
 npm install ls-gzip-cli -g
