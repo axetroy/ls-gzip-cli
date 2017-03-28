@@ -1,4 +1,6 @@
 # ls-gzip-cli 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ls-gzip.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/ls-gzip-cli.svg?branch=master)](https://travis-ci.org/axetroy/ls-gzip-cli)
 [![Dependency](https://david-dm.org/axetroy/ls-gzip-cli.svg)](https://david-dm.org/axetroy/ls-gzip-cli)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
