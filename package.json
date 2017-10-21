@@ -35,7 +35,7 @@
     "cli"
   ],
   "dependencies": {
-    "caporal": "^0.4.1",
+    "caporal": "^0.8.0",
     "chalk": "^2.2.0",
     "console.table": "^0.8.0",
     "figures": "^2.0.0",
