@@ -39,7 +39,7 @@
     "chalk": "^2.2.0",
     "console.table": "^0.8.0",
     "figures": "^2.0.0",
-    "gzip-size": "^3.0.0",
+    "gzip-size": "^4.0.1",
     "pretty-bytes": "^4.0.2"
   }
 }
