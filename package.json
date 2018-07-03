@@ -12,7 +12,9 @@
   },
   "scripts": {
     "test": "echo 'Test Success!'",
-    "generate": "all-contributors generate"
+    "generate": "all-contributors generate",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "preferGlobal": true,
   "homepage": "https://github.com/axetroy/ls-gzip-cli#readme",
@@ -40,6 +42,8 @@
     "console.table": "^0.10.0",
     "figures": "^2.0.0",
     "gzip-size": "^4.0.1",
-    "pretty-bytes": "^4.0.2"
-  }
+    "pretty-bytes": "^4.0.2",
+    "snyk": "^1.88.0"
+  },
+  "snyk": true
 }
