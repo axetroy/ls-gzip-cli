@@ -4,7 +4,7 @@
 [![Dependency](https://david-dm.org/axetroy/ls-gzip-cli.svg)](https://david-dm.org/axetroy/ls-gzip-cli)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
-[![npm version](https://badge.fury.io/js/ls-gzip-cli.svg)](https://badge.fury.io/js/ls-gzip-cli)
+[![npm version](https://badge.fury.io/js/ls-gzip-cli.svg)](https://badge.fury.io/js/ls-gzip-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ls-gzip-cli.svg)](https://greenkeeper.io/)
 
 Display the file size after gzip compression!
 
